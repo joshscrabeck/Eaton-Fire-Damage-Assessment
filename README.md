@@ -1,6 +1,6 @@
 # Eaton Fire - Building Damage Assessment
 
-Building damage assessment for the 2026 Eaton Fire in Altadena, California using Sentinel-2 satellite imagery and machine learning.
+Building damage assessment for the 2025 Eaton Fire in Altadena, California using Sentinel-2 satellite imagery and machine learning.
 
 ## Overview
 
